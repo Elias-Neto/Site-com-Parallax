@@ -19,6 +19,12 @@ h3 {
     text-align: center;
 }
 
+p {
+    margin: auto;
+    margin-bottom: 20px;
+    width: 70%;
+}
+
 /* EFEITO PARALLAX */
 
 .caixa1, .caixa2, .caixa3, .caixa4 {
